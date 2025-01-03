@@ -1,20 +1,6 @@
 {
-  "signUp": [
-    {
-      "firstName": "sara",
-      "LastName": "moradi",
-      "email": "saraMORADI22@gmail.com",
-      "password": "saraMordi$22",
-      "gender": "female",
-      "id": 1
-    }
-  ],
+
   "signIn": [
-    {
-      "email": "saraMORADI22@gmail.com",
-      "password": "saraMordi$22",
-      "id": 1
-    }
   ],
   "movies": [
     {
